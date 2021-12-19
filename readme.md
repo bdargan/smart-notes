@@ -1,27 +1,15 @@
 # Secondbrain system
-Experiment with Secondbrain and Zettelkasten, the smart note taking system.
+Experiment with Secondbrain and Zettelkasten, the smart note taking system. Based on Foam with modifications to support my workflow with a [PARA folder structure](https://fortelabs.co/blog/para/) twist.
 ## Essentials: Note taking process
 1. write your own notes to deeply internalize the subject matter (or trash)
-2. [transient reading inbox](./reading/inbox.reading.md)
+2. [transient reading inbox](./inbox/inbox.reading.md)
 3. [writing inbox](./writing/inbox.writing.md)
-4. lists, long form articles, web clips, annotations, book reviews, quotes, puzzles/open questions *(slip-box)*
-5. daily notes / work log / journal
+4. notes are formed and put into the *slip-box*, into succinct, well connected notes, or lists, or long form articles,or  web clips, or annotated content, or book reviews,or  quotes, or puzzles/open questions
+5. daily notes, or work log or journal
 
-See https://notes.andymatuschak.org and work hard to *"Close the loop"*.
-
-## Rules
-* 1 inbox for all, or 1 for personal, professional, business...
-* automate/determine rules for *closing the loop*: 
-  * TODO: what mechanism will automatically close loops and show recent closed / trashed items
-  * reading inbox
-  * writing inbox
-## PARA - Organized for actionability
-- project
-- area
-- resource
-- archive
-See Tiago [Para organization](https://fortelabs.co/blog/para/))
-
-
-## Supporting Tools
-* automated aging of reading inbox into archive
+All of the above you can do yourself with Foam. I'm experimenting with how I can improve on this in two ways:
+1. What process and/or features will assist me in *[Closing the loop](https://notes.andymatuschak.org/Close_open_loops)* - *because I regularly fail at this*
+2. What feature changes can I make to keep focus on the PARA organized folders?
+  - For example, should some extensions for foam ignore the archive folder to let me focus on the more relevant and actionable folders?
+  
+See [[potential-features]].

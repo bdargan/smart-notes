@@ -13,5 +13,8 @@
 
     // Spell checking for text, markdown and latex
     "ban.spellright",
+
+    //Put in your URL, run Expand command, boom 💥 You got a pretty markdown link. #vscode
+    "skn0tt.markdown-link-expander"
   ]
 }
